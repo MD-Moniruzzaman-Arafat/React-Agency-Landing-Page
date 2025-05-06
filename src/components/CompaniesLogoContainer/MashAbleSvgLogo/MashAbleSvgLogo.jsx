@@ -1,6 +1,6 @@
 import React from 'react'
 
-export default function MashAbleSvgLogo() {
+export default function MashableSvgLogo() {
     return (
         <>
             <a href="#" className="flex items-center lg:justify-center">

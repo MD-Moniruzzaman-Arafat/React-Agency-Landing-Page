@@ -3,7 +3,7 @@ import AirbnbSvgLogo from './AirbnbSvgLogo/AirbnbSvgLogo'
 import GoogleSvgLogo from './GoogleSvgLogo/GoogleSvgLogo'
 import MicrosoftSvgLogo from './MicrosoftSvgLogo/MicrosoftSvgLogo'
 import SpotifySvgLogo from './SpotifySvgLogo/SpotifySvgLogo'
-import MailChimpSvgLogo from './MailchimpSvgLogo/MailchimpSvgLogo'
+import MailchimpSvgLogo from './MailchimpSvgLogo/MailchimpSvgLogo'
 import MashAbleSvgLogo from './MashableSvgLogo/MashableSvgLogo'
 
 
@@ -18,7 +18,7 @@ export default function CompaniesLogoContainer() {
                         <GoogleSvgLogo />
                         <MicrosoftSvgLogo />
                         <SpotifySvgLogo />
-                        <MailChimpSvgLogo />
+                        <MailchimpSvgLogo />
                         <MashAbleSvgLogo />
                     </div>
                 </div>
